@@ -3,6 +3,8 @@ package projet01;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//Un commentaire magnifique
+
 public class Programme {
 
 	public static void main(String[] args) {
